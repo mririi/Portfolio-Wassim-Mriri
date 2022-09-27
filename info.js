@@ -14,7 +14,7 @@ let info = {
     linkedin: "https://www.linkedin.com/in/wassim-mriri/",
     github: "https://github.com/mririi",
     resume:
-      "https://github.com/mririi/Portfolio-Wassim-Mriri"
+      "https://github.com/mririi/Portfolio-Wassim-Mriri/blob/master/CV%20English%20latest%20version.pdf"
   },
   education: [
     {
